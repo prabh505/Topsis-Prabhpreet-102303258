@@ -26,14 +26,6 @@ Topsis-Prabhpreet-102303258/
 
 ---
 
-## What is TOPSIS?
-
-**TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** is a multi-criteria decision analysis method developed by Hwang and Yoon in 1981.
-
-The fundamental principle is that the best alternative should have:
-- **Shortest distance** from the Positive Ideal Solution (PIS)
-- **Longest distance** from the Negative Ideal Solution (NIS)
-
 ### How TOPSIS Works
 
 1. **Normalize** the decision matrix using vector normalization
